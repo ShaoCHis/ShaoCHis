@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h5 align="center">Some good moments</h5>
-<img src="img/2.JPG" align="bottom" width="100%" />
+<img src="img/2.JPG" align="bottom" height="100px" width="100%" />
 
 
 <p align="center">
