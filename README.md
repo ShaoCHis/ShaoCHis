@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h5 align="center">Some good moments</h5>
-<img src="img/2.JPG" align="center" height="250px" width="75%" />
 
 
 <p align="center">
@@ -32,6 +30,8 @@ border-radius: 20px
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaoCHis&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=20"/>
 </p>
+<h5 align="center">Some good moments</h5>
+<img src="img/2.JPG" align="center"width="100%" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doubleZ0108&layout=compact)](https://github.com/doubleZ0108/github-readme-stats)
 
