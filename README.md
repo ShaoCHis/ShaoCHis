@@ -23,24 +23,9 @@ blur: 5px 0.22%
 border-radius: 20px 
 -->
 
-<p align="center">
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://mp.weixin.qq.com/s/FGwGCH6CgmjgbYKO72PSLw"><img src="img/jjyT-logo.png" align="bottom" width="100px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.doublez.site"><img src="img/doublez-site.png" align="bottom" width="75px" /></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.skypixel.com/users/djiuser-veime0bt9szf"><img src="img/dji-logo.png" align="bottom" width="85px" /></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.zhihu.com/people/doubleZ0108/posts"><img src="img/zhihu-logo.png" align="bottom" height="45px" width="100px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/doubleZ0108"><img src="img/linkedin-logo.png" align="bottom" width="75px" /></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="http://www.doublez.site/blogs/Six-past-TwentyTwo"><img src="img/six-past-twentytwo-logo.png" align="bottom" width="100px"/></a>
-</p>
-
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doubleZ0108&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=20"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaoCHis&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=20"/>
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doubleZ0108&layout=compact)](https://github.com/doubleZ0108/github-readme-stats)
