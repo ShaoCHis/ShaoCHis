@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h5 align="center">Some good moments</h5>
-![test image size](img/2.JPG)
+<img src="img/2.JPG" align="bottom" width="75px" />
 
 
 <p align="center">
