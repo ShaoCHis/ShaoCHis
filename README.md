@@ -12,11 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h5 align="center">Some good moments</h5>
+![test image size](./img/2.JPG)
+
 
 <p align="center">
-  <h3 align="center">张喆｜Zhe ZHANG(doubleZ)</h3>
-  <h5 align="center">不想当艺术家🎨的演讲者🎙不是好程序员💻</h5>
-  <h5 align="center">A speaker🎙 who doesn't want to be an artist🎨 is not a good programmer💻</h5
+  <h3 align="center">沈韬｜Tao Shen(ShaoCHi)</h3>
+  <h5 align="center">Just want to eat delicious food!!!!😄 😄 😄 😄 😄 </h5>
+  <h5 align="left">🔭 I’m currently working on Tongji University</h5>
+  <h5 align="left">⚡ Fun fact:LOL Music and Delicious Food🌱🌱🌱🌱🌱</h5>
+  <h5 align="left">📫 How to reach me:1952395@tongji.edu.cn Let's have a nice lunch!</h5>
 </p>
 <!-- 
 blur: 5px 0.22%
