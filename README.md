@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <h3 align="center">沈韬｜Tao Shen(ShaoCHi)</h3>
+  <h3 align="center">Tao Shen(ShaoCHi)</h3>
   <h5 align="center">Just want to eat delicious food!!!!😄 😄 😄 😄 😄 </h5>
   <h5 align="left">🔭 I’m currently working on Tongji University</h5>
   <h5 align="left">⚡ Fun fact:LOL Music and Delicious Food🌱🌱🌱🌱🌱</h5>
