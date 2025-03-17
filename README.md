@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <p align="center">
   <h3 align="center">Tao Shen(ShaoCHi)</h3>
   <h5 align="center">Just want to eat delicious food!!!!😄 😄 😄 😄 😄 </h5>
-  <h5 align="left">🔭 I’m currently working on Tongji University</h5>
+  <h5 align="left">🔭 I’m currently working on ShanghaiTech University</h5>
   <h5 align="left">⚡ Fun fact:LOL Music and Delicious Food🌱🌱🌱🌱🌱</h5>
-  <h5 align="left">📫 How to reach me:1952395@tongji.edu.cn Let's have a nice lunch!</h5>
+  <h5 align="left">📫 How to reach me:shentao2024@shanghaitech.edu.cn Let's have a nice lunch!</h5>
 </p>
 <!-- 
 blur: 5px 0.22%
